@@ -1,0 +1,10 @@
+export const CAFE_FETCH_DATA = 'CAFE_FETCH_DATA';
+export const CAFE_ADD_DATA = 'CAFE_ADD_DATA';
+export const CAFE_UPDATE_DATA = 'CAFE_UPDATE_DATA';
+export const CAFE_REMOVE_DATA = 'CAFE_REMOVE_DATA';
+export const CAFE_ERROR_DATA = 'CAFE_ERROR_DATA';
+export const EMP_FETCH_DATA = 'EMP_FETCH_DATA';
+export const EMP_ADD_DATA = 'EMP_ADD_DATA';
+export const EMP_UPDATE_DATA = 'EMP_UPDATE_DATA';
+export const EMP_REMOVE_DATA = 'EMP_REMOVE_DATA';
+export const EMP_ERROR_DATA = 'EMP_ERROR_DATA';
